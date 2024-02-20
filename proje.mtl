@@ -1,0 +1,188 @@
+newmtl Part6Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0748446 0.0683526 0.0731914 
+
+d 1
+
+Ns 0
+
+newmtl Part17Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.0015515 0.0015515 0.0015515 
+
+d 1
+
+Ns 0
+
+newmtl Union1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.224169 0.221155 0.230265 
+
+d 1
+
+Ns 0
+
+newmtl Meshesspeccoil21Mtl
+Material Color
+Ka 0.0328759 0.0342302 0.0445526
+Kd 0.0328759 0.0342302 0.0445526
+Ks 0.0197255 0.0205381 0.0267316 
+
+d 1
+
+Ns 0
+
+newmtl Uni00541Mtl
+Material Color
+Ka 1 0.0600316 0.0600316
+Kd 1 0.0600316 0.0600316
+Ks 0.6 0.036019 0.036019 
+
+d 1
+
+Ns 0
+
+newmtl Uni00391Mtl
+Material Color
+Ka 1 0.442323 0
+Kd 1 0.442323 0
+Ks 0.6 0.265394 0 
+
+d 1
+
+Ns 0
+
+newmtl Part5Mtl
+Material Color
+Ka 0.0399472 0.0370285 0.0384727
+Kd 0.0399472 0.0370285 0.0384727
+Ks 0.0239683 0.0222171 0.0230836 
+
+d 1
+
+Ns 0
+
+newmtl Union7Mtl
+Material Color
+Ka 0.804559 0.804559 0.84337
+Kd 0.804559 0.804559 0.84337
+Ks 0.482735 0.482735 0.506022 
+
+d 1
+
+Ns 0
+
+newmtl Part9Mtl
+Material Color
+Ka 0.101145 0.0445526 0
+Kd 0.101145 0.0445526 0
+Ks 0.0606871 0.0267316 0 
+
+d 1
+
+Ns 0
+
+newmtl Union2Mtl
+Material Color
+Ka 0.598942 0.605484 0.645555
+Kd 0.598942 0.605484 0.645555
+Ks 0.359365 0.363291 0.387333 
+
+d 1
+
+Ns 0
+
+newmtl Union3Mtl
+Material Color
+Ka 0 0.00226295 0.442323
+Kd 0 0.00226295 0.442323
+Ks 0 0.00135777 0.265394 
+
+d 1
+
+Ns 0
+
+newmtl Part10Mtl
+Material Color
+Ka 0.000638183 0.254916 0.632043
+Kd 0.000638183 0.254916 0.632043
+Ks 0.00038291 0.15295 0.379226 
+
+d 1
+
+Ns 0
+
+newmtl ArduinoUnoR31Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00429302 0.0113478 0.0189308 
+
+d 1
+
+Ns 0
+
+newmtl Part16Mtl
+Material Color
+Ka 0.103634 0.108711 0.14198
+Kd 0.103634 0.108711 0.14198
+Ks 0.0621805 0.0652267 0.0851882 
+
+d 1
+
+Ns 0
+
+newmtl Union14Mtl
+Material Color
+Ka 0.215764 0.275833 0.12753
+Kd 0.215764 0.275833 0.12753
+Ks 0.129459 0.1655 0.0765179 
+
+d 1
+
+Ns 0
+
+newmtl Union15Mtl
+Material Color
+Ka 0.409826 0.43134 0.554227
+Kd 0.409826 0.43134 0.554227
+Ks 0.245895 0.258804 0.332536 
+
+d 1
+
+Ns 0
+
+newmtl MeshesheadphonesWorking1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka MeshesheadphonesWorking1_diff.png
+map_Kd MeshesheadphonesWorking1_diff.png
+map_d MeshesheadphonesWorking1_diff.png
+
+newmtl Battery1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Battery1_diff.png
+map_Kd Battery1_diff.png
+map_d Battery1_diff.png
+
